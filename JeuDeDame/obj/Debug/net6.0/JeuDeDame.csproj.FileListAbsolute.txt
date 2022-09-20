@@ -1,0 +1,15 @@
+C:\Users\akimts\source\repos\DemoCSharpBase\JeuDeDame\bin\Debug\net6.0\JeuDeDame.exe
+C:\Users\akimts\source\repos\DemoCSharpBase\JeuDeDame\bin\Debug\net6.0\JeuDeDame.deps.json
+C:\Users\akimts\source\repos\DemoCSharpBase\JeuDeDame\bin\Debug\net6.0\JeuDeDame.runtimeconfig.json
+C:\Users\akimts\source\repos\DemoCSharpBase\JeuDeDame\bin\Debug\net6.0\JeuDeDame.dll
+C:\Users\akimts\source\repos\DemoCSharpBase\JeuDeDame\bin\Debug\net6.0\JeuDeDame.pdb
+C:\Users\akimts\source\repos\DemoCSharpBase\JeuDeDame\obj\Debug\net6.0\JeuDeDame.csproj.AssemblyReference.cache
+C:\Users\akimts\source\repos\DemoCSharpBase\JeuDeDame\obj\Debug\net6.0\JeuDeDame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akimts\source\repos\DemoCSharpBase\JeuDeDame\obj\Debug\net6.0\JeuDeDame.AssemblyInfoInputs.cache
+C:\Users\akimts\source\repos\DemoCSharpBase\JeuDeDame\obj\Debug\net6.0\JeuDeDame.AssemblyInfo.cs
+C:\Users\akimts\source\repos\DemoCSharpBase\JeuDeDame\obj\Debug\net6.0\JeuDeDame.csproj.CoreCompileInputs.cache
+C:\Users\akimts\source\repos\DemoCSharpBase\JeuDeDame\obj\Debug\net6.0\JeuDeDame.dll
+C:\Users\akimts\source\repos\DemoCSharpBase\JeuDeDame\obj\Debug\net6.0\refint\JeuDeDame.dll
+C:\Users\akimts\source\repos\DemoCSharpBase\JeuDeDame\obj\Debug\net6.0\JeuDeDame.pdb
+C:\Users\akimts\source\repos\DemoCSharpBase\JeuDeDame\obj\Debug\net6.0\JeuDeDame.genruntimeconfig.cache
+C:\Users\akimts\source\repos\DemoCSharpBase\JeuDeDame\obj\Debug\net6.0\ref\JeuDeDame.dll

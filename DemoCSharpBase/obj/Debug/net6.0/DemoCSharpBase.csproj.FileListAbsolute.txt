@@ -1,0 +1,15 @@
+C:\Users\akimts\source\repos\DemoCSharpBase\DemoCSharpBase\bin\Debug\net6.0\DemoCSharpBase.exe
+C:\Users\akimts\source\repos\DemoCSharpBase\DemoCSharpBase\bin\Debug\net6.0\DemoCSharpBase.deps.json
+C:\Users\akimts\source\repos\DemoCSharpBase\DemoCSharpBase\bin\Debug\net6.0\DemoCSharpBase.runtimeconfig.json
+C:\Users\akimts\source\repos\DemoCSharpBase\DemoCSharpBase\bin\Debug\net6.0\DemoCSharpBase.dll
+C:\Users\akimts\source\repos\DemoCSharpBase\DemoCSharpBase\bin\Debug\net6.0\DemoCSharpBase.pdb
+C:\Users\akimts\source\repos\DemoCSharpBase\DemoCSharpBase\obj\Debug\net6.0\DemoCSharpBase.csproj.AssemblyReference.cache
+C:\Users\akimts\source\repos\DemoCSharpBase\DemoCSharpBase\obj\Debug\net6.0\DemoCSharpBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akimts\source\repos\DemoCSharpBase\DemoCSharpBase\obj\Debug\net6.0\DemoCSharpBase.AssemblyInfoInputs.cache
+C:\Users\akimts\source\repos\DemoCSharpBase\DemoCSharpBase\obj\Debug\net6.0\DemoCSharpBase.AssemblyInfo.cs
+C:\Users\akimts\source\repos\DemoCSharpBase\DemoCSharpBase\obj\Debug\net6.0\DemoCSharpBase.csproj.CoreCompileInputs.cache
+C:\Users\akimts\source\repos\DemoCSharpBase\DemoCSharpBase\obj\Debug\net6.0\DemoCSharpBase.dll
+C:\Users\akimts\source\repos\DemoCSharpBase\DemoCSharpBase\obj\Debug\net6.0\refint\DemoCSharpBase.dll
+C:\Users\akimts\source\repos\DemoCSharpBase\DemoCSharpBase\obj\Debug\net6.0\DemoCSharpBase.pdb
+C:\Users\akimts\source\repos\DemoCSharpBase\DemoCSharpBase\obj\Debug\net6.0\DemoCSharpBase.genruntimeconfig.cache
+C:\Users\akimts\source\repos\DemoCSharpBase\DemoCSharpBase\obj\Debug\net6.0\ref\DemoCSharpBase.dll

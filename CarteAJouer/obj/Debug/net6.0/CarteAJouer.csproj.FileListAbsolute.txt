@@ -1,0 +1,15 @@
+C:\Users\akimts\source\repos\DemoCSharpBase\CarteAJouer\bin\Debug\net6.0\CarteAJouer.exe
+C:\Users\akimts\source\repos\DemoCSharpBase\CarteAJouer\bin\Debug\net6.0\CarteAJouer.deps.json
+C:\Users\akimts\source\repos\DemoCSharpBase\CarteAJouer\bin\Debug\net6.0\CarteAJouer.runtimeconfig.json
+C:\Users\akimts\source\repos\DemoCSharpBase\CarteAJouer\bin\Debug\net6.0\CarteAJouer.dll
+C:\Users\akimts\source\repos\DemoCSharpBase\CarteAJouer\bin\Debug\net6.0\CarteAJouer.pdb
+C:\Users\akimts\source\repos\DemoCSharpBase\CarteAJouer\obj\Debug\net6.0\CarteAJouer.csproj.AssemblyReference.cache
+C:\Users\akimts\source\repos\DemoCSharpBase\CarteAJouer\obj\Debug\net6.0\CarteAJouer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akimts\source\repos\DemoCSharpBase\CarteAJouer\obj\Debug\net6.0\CarteAJouer.AssemblyInfoInputs.cache
+C:\Users\akimts\source\repos\DemoCSharpBase\CarteAJouer\obj\Debug\net6.0\CarteAJouer.AssemblyInfo.cs
+C:\Users\akimts\source\repos\DemoCSharpBase\CarteAJouer\obj\Debug\net6.0\CarteAJouer.csproj.CoreCompileInputs.cache
+C:\Users\akimts\source\repos\DemoCSharpBase\CarteAJouer\obj\Debug\net6.0\CarteAJouer.dll
+C:\Users\akimts\source\repos\DemoCSharpBase\CarteAJouer\obj\Debug\net6.0\refint\CarteAJouer.dll
+C:\Users\akimts\source\repos\DemoCSharpBase\CarteAJouer\obj\Debug\net6.0\CarteAJouer.pdb
+C:\Users\akimts\source\repos\DemoCSharpBase\CarteAJouer\obj\Debug\net6.0\CarteAJouer.genruntimeconfig.cache
+C:\Users\akimts\source\repos\DemoCSharpBase\CarteAJouer\obj\Debug\net6.0\ref\CarteAJouer.dll
